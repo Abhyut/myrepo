@@ -1,0 +1,7 @@
+[
+            { "id":1,"name": "Abhyut", "gender": "Male","salary": 33000.878 },
+            { "id":2,"name": "Vamsi", "gender": "Male","salary": 45000.878 },
+            { "id":3,"name": "Vinodh", "gender": "Male","salary": 83000.878 },
+            { "id":4,"name": "Srilekha", "gender": "Female","salary": 33000.878 }
+
+        ]
